@@ -1,8 +1,6 @@
-# Class Component and State
+# My Chart App
+## Setup
+```bash
+npm install
+npm start
 
-- Class Component
-  - Syntax
-- Handling Events in React
-  - Syntax
-- State
-  - setState()
